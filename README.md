@@ -181,3 +181,15 @@ Given two strings s and t, check if s is a subsequence of t. A subsequence is a 
 Input: s = "abc", t = "ahbgdc"
 Output: true
 ```
+## 15. Binary Search
+**Problem Description:**
+Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return -1.
+You must write an algorithm with O(log n) runtime complexity.
+
+**Example:**
+
+```python
+ 
+Input: nums = [-1,0,3,5,9,12], target = 9
+Output: 4
+```
